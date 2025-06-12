@@ -1,0 +1,66 @@
+[
+  {
+    "name": "RMS Titanic",
+    "travelRoute": "Southampton, Inglaterra / Nova York, EUA ",
+    "sinkingDate": "14 de abril de 1912",
+    "picShip": "assets/images/titanic.jfif",
+    "cause": "Colisão com um Iceberg",
+    "sinkingTime": "2h 40min",
+    "deaths": "1514 de 2224 (68%)"
+  },
+  {
+    "name": "RMS Lusitania",
+    "travelRoute": "Liverpool, Inglaterra / Nova York, EUA",
+    "sinkingDate": "7 de maio de 1915",
+    "picShip": "assets/images/lusitania.jfif",
+    "cause": "Torpedo alemão no estibordo do navio",
+    "sinkingTime": "18 min",
+    "deaths": "402 de 1197 (61%)"
+  },
+  {
+    "name": "SS Eastland",
+    "travelRoute": "Chicago, EUA (rio Chicago)",
+    "sinkingDate": "24 de julho de 1915",
+    "picShip": "assets/images/eastland.png",
+    "cause": "Instabilidade e sobrepeso",
+    "sinkingTime": "20 min",
+    "deaths": "848"
+  },
+  {
+    "name": "HMHS Britannic",
+    "travelRoute": "Southampton, Inglaterra / Lemnos, Grécia",
+    "sinkingDate": "21 de Novembro de 1916",
+    "picShip": "assets/images/britannic.jpg",
+    "cause": "Uma mina do lado estibordo do navio",
+    "sinkingTime": "55 min",
+    "deaths": "31 de 1066 (3%)"
+  },
+  {
+    "name": "RMS Atlantic",
+    "travelRoute": "Liverpool, UK / Nova Escócia, Canadá",
+    "sinkingDate": "20 de Março de 1873",
+    "picShip": "assets/images/atlantic.jpg",
+    "cause": "Bateu em pedras submersas",
+    "sinkingTime": "18 min",
+    "deaths": "581 de 952 (61%)"
+  },
+  {
+    "name": "RMS Empress of Ireland",
+    "travelRoute": "Liverpool, UK / Quebec, Canadá",
+    "sinkingDate": "29 de Maio de 1914",
+    "picShip": "assets/images/empress_of_ireland.jfif",
+    "cause": "Colisão com o SS Storstad em meio a nevoeiro no lado estibordo",
+    "sinkingTime": "14 min",
+    "deaths": "1012 de 1477 (69%)"
+  },
+  {
+    "name": "SS Stella",
+    "travelRoute": "Ilhas dos canais de Southampton, Reino Unido",
+    "sinkingDate": "30 de Março de 1899",
+    "picShip": "assets/images/stella.jpg",
+    "cause": "Impacto da popa com pedras submersas em meio a nevoeiro",
+    "sinkingTime": "8 min",
+    "deaths": "105 de 190 (55%)"
+  }
+]
+
